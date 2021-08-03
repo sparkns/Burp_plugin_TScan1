@@ -47,4 +47,4 @@ Vuln_Data vuln_data = new Vuln_Data();
 vulns.add(new Amf_Vuln(stdout,callbacks));
 ```
 
-即可实现功能。
+即可实现添加插件漏洞模块。
